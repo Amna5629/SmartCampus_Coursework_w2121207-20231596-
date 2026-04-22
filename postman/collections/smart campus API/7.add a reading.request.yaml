@@ -1,7 +1,0 @@
-$kind: http-request
-url: http://localhost:8080/smart-campus-api/api/v1/sensors/CO2-001/readings
-method: POST
-body:
-  type: json
-  content: "{\r\n  \"value\": 415.2\r\n}"
-order: 4145693569744060

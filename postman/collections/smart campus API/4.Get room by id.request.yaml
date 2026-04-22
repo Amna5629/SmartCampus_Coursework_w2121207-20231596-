@@ -1,4 +1,0 @@
-$kind: http-request
-url: http://localhost:8080/smart-campus-api/api/v1/rooms/LIB-301
-method: GET
-order: 3553088524905420

@@ -1,8 +1,0 @@
-$kind: http-request
-name: 12.  Try to post a reading to it
-url: http://localhost:8080/smart-campus-api/api/v1/sensors/TEMP-002/readings
-method: POST
-body:
-  type: json
-  content: "{\r\n  \"value\": 25.0\r\n}"
-order: 4503246507476591

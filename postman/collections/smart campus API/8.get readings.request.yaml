@@ -1,4 +1,0 @@
-$kind: http-request
-url: http://localhost:8080/smart-campus-api/api/v1/sensors/CO2-001/readings
-method: GET
-order: 4291848804254388
