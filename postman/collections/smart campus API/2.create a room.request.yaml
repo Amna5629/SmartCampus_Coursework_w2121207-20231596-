@@ -1,0 +1,16 @@
+$kind: http-request
+name: 2.create a room
+url: http://localhost:8080/smart-campus-api/api/v1/rooms
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"id\": \"LIB-301\",\r
+
+    \  \"name\": \"Library Quiet Study\",\r
+
+    \  \"capacity\": 80\r
+
+    }"
+order: 2113932160306360

@@ -1,0 +1,5 @@
+$kind: http-request
+name: 9. Delete room with sensor
+url: http://localhost:8080/smart-campus-api/api/v1/rooms/LIB-301
+method: DELETE
+order: 4378198119902443

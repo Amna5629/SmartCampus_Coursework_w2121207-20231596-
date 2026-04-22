@@ -1,0 +1,6 @@
+$kind: http-request
+url: http://localhost:8080/smart-campus-api/api/v1/sensors?type=CO2
+method: GET
+queryParams:
+  type: CO2
+order: 3805792695358357

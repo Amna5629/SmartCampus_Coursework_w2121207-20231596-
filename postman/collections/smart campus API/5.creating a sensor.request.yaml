@@ -1,0 +1,19 @@
+$kind: http-request
+url: http://localhost:8080/smart-campus-api/api/v1/sensors
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"id\": \"CO2-001\",\r
+
+    \  \"type\": \"CO2\",\r
+
+    \  \"status\": \"ACTIVE\",\r
+
+    \  \"currentValue\": 400.0,\r
+
+    \  \"roomId\": \"LIB-301\"\r
+
+    }"
+order: 3727426386511245
