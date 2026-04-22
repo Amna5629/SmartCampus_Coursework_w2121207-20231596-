@@ -1,1 +1,7 @@
-/target/
+
+target/
+nbproject/
+*.iml
+.postman/
+postman/
+nb-configuration.xml
